@@ -1,0 +1,132 @@
+body {
+	margin: 0; 
+	padding: 0;
+	width: 100%;
+	height: 300px;
+}
+
+header { 
+	background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/mountain-range.jpg) no-repeat;
+	padding-top: 61.93333333%;
+	background-size: cover;
+  font-family: 'Sucrose Bold Two';
+  display: block;
+  width: 100%;
+}
+
+header img {
+	top: 0;
+	right: 0;
+	width: 45.8%;
+}
+
+
+header h1 { 
+	position: fixed;
+	top: 3rem;
+	right: 12rem;
+  font-size: 7vw;
+  line-height: 1.8;
+  margin-top: 0;
+  text-align: center;
+}
+
+
+header h1 span {
+  display: block;
+  font-size: 8.75vw;
+}
+
+
+.image1{
+	position: fixed;
+	margin-left: 2px;
+	border-radius: 50%;
+	height: 170px;
+	width: 170px;
+	padding: 0;
+	margin: 0;
+	border: 15px solid transparent;
+	z-index: 9999;
+	transition: all .4s ease-out;
+}
+
+
+
+.title-div {
+	width: 100%;
+	height: 40px;
+}
+
+
+.profile-section {
+	width: 100px;
+	height: 100px;
+	
+}
+
+.profile-div {
+	width: 100px;
+	height: 100px;
+	justify-content: center;
+	border-radius: 50%;
+}
+
+.row{
+	text-align: center;
+}
+
+.row-title {
+	justify-content: center;
+	font-size: 36px;
+
+}
+
+.skills {
+	justify-content: center;
+	white-space: nowrap;
+	top: 80px;
+	
+}
+
+.footer {
+	width: 100%;
+	height: 40px;
+}
+
+.footer-div{
+	width: 120px;
+	height: 40px;
+}
+
+
+.footer-p {
+	white-space: nowrap;
+	font-size: 15px;
+	text-align: center;
+	bottom: 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
